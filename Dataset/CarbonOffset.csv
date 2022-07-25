@@ -1,0 +1,28 @@
+year,buyer_name,buyer_address,buyer_region,buyer_email,emission_rate (mt),buyer_price (usd/mt),seller_name,seller_address,seller_region,field_location,seller_email,tree_species,number_of_trees,avg_tree_age (year),carbon_stored (mt),seller_price (usd/mt),nagotiator_name,nagotiator_address,nagotiator_email,nagotiator_region,ngo,negotiated_price (usd/mt)
+2021,,,Bangladesh,,30,32.5,,,Bangladesh,Dhaka,,Jackfruit,10,8,10,35.5,,,,Bangladesh,,33
+2021,,,China,,45,33.5,,,China,Beijing,,Plum Blossom,15,7,13.5,36,,,,China,,35
+2021,,,Canada,,32,33.5,,,Canada,Toronto,,Quercus Alba,11,6,9,35,,,,Canada,,33.5
+2021,,,Malaysia,,35,32.5,,,Malaysia,Perak,,Lagerstroemia Speciosa,8,7,7.5,36,,,,Malaysia,,33
+2021,,,India,,35,32,,,India,Mumbai,,Quercus Coccinea,5,9,5,35.5,,,,India,,33
+2021,,,Brazil,,20,33,,,Brazil,Rio de Janeiro,,Swietenia Macrophylla,9,6,7.86,34,,,,Brazil,,33
+2021,,,Indonesia,,30,32.5,,,Indonesia,Jakarta,,Plum Blossom,12,8,11.87,34.5,,,,Indonesia,,33
+2021,,,USA,,40,33.5,,,USA, Chicago,,Quercus Alba,30,7,28.97,35.5,,,,USA,,34
+2021,,,Australia,,35,33.5,,,Australia,Perth,,Lagerstroemia Speciosa,22,6,20.12,35,,,,Australia,,33.5
+2021,,,New zealand,,40,33.5,,,New zealand,Wellington,,Quercus Coccinea,18,7,17.56,36,,,,New zealand,,34
+2021,,,Canada,,25,32.5,,,Canada,Ottawa,,Swietenia Macrophylla,26,9,26.87,36,,,,Canada,,33.5
+2022,,,Malaysia,,35,32,,,Malaysia,Sabah,,Lagerstroemia Speciosa,8,6,5.98,35,,,,Malaysia,,33
+2022,,,India,,20,33,,,India,Delhi,,Plum Blossom,5,8,5.21,36,,,,India,,33
+2022,,,Brazil,,30,32.5,,,Brazil,Salvador,,Quercus Alba,9,7,8.99,35.5,,,,Brazil,,33
+2022,,,Indonesia,,40,33.5,,,Indonesia,Surabaya,,Lagerstroemia Speciosa,12,6,10.54,34,,,,Indonesia,,33.5
+2022,,,USA,,35,33.5,,,USA,Houston,,Quercus Coccinea,30,7,29.73,34.5,,,,USA,,34
+2022,,,Australia,,35,32.5,,,Australia,Adelaide,,Lagerstroemia Speciosa,22,9,23,35.5,,,,Australia,,33.5
+2022,,,New zealand,,20,32,,,New zealand,Christchurch,,Swietenia Macrophylla,18,6,16.21,34,,,,New zealand,,33.5
+2022,,,Canada,,30,33,,,Canada,Vancouver,,Quercus Coccinea,26,7,25.12,35,,,,Canada,,34
+2022,,,Malaysia,,40,32.5,,,Malaysia,Johor,,Swietenia Macrophylla,8,6,6.75,35.5,,,,Malaysia,,33.5
+2022,,,Bangladesh,,35,31.5,,,Bangladesh,Faridpur,,Mango,5,7,4.92,34,,,,Bangladesh,,32
+2022,,,China,,25,33,,,China,Tianjin,,Dawn Redwood,9,9,10,35,,,,China,,33.5
+2022,,,Canada,,20,31.5,,,Canada,Ottawa,,Quercus Coccinea,12,6,10.56,36,,,,Canada,,33.5
+2022,,,New zealand,,30,32,,,New zealand,Wellington,,Lagerstroemia Speciosa,30,8,31,35,,,,New zealand,,34
+2022,,,Canada,,40,33,,,Canada,Toronto,,Swietenia Macrophylla,22,7,21.92,36,,,,Canada,,33.5
+2022,,,Malaysia,,35,33.5,,,Malaysia,Johor,,Swietenia macrophylla,18,11,19.56,35.5,,,,Malaysia,,33.5
+2022,,,Bangladesh,,20,33,,,Bangladesh,Khulna,,Swietenia mahagoni,26,5,23.97,34,,,,Bangladesh,,33.5
